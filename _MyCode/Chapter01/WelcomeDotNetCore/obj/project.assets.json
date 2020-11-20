@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\mihsta\\cs7dotnetcore2\\_MyCode\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\mihsta\\cs7dotnetcore2_my\\_MyCode\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
       "projectName": "WelcomeDotNetCore",
-      "projectPath": "C:\\Users\\User\\source\\repos\\mihsta\\cs7dotnetcore2\\_MyCode\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\mihsta\\cs7dotnetcore2_my\\_MyCode\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\mihsta\\cs7dotnetcore2\\_MyCode\\Chapter01\\WelcomeDotNetCore\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\mihsta\\cs7dotnetcore2_my\\_MyCode\\Chapter01\\WelcomeDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

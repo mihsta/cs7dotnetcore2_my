@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\User\source\repos\mihsta\cs7dotnetcore2\VS2017\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

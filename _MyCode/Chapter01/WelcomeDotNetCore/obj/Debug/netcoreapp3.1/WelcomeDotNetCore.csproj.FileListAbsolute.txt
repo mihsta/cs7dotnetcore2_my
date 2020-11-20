@@ -11,3 +11,16 @@ C:\Users\User\source\repos\mihsta\cs7dotnetcore2\_MyCode\Chapter01\WelcomeDotNet
 C:\Users\User\source\repos\mihsta\cs7dotnetcore2\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
 C:\Users\User\source\repos\mihsta\cs7dotnetcore2\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
 C:\Users\User\source\repos\mihsta\cs7dotnetcore2\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.genruntimeconfig.cache
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.exe
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.deps.json
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.json
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
+C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.exe
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.deps.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.runtimeconfig.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\ref\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp5.0\WelcomeDotNetCore.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\ref\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp5.0\WelcomeDotNetCore.genruntimeconfig.cache

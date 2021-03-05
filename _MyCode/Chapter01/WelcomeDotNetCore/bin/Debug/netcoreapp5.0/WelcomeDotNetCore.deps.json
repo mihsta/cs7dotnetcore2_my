@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WelcomeDotNetCore/1.0.0": {
+        "runtime": {
+          "WelcomeDotNetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WelcomeDotNetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

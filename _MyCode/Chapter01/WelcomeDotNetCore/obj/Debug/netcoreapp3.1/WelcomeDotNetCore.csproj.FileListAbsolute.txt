@@ -24,3 +24,16 @@ C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDot
 C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
 C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
 C:\Users\User\Source\Repos\mihsta\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.genruntimeconfig.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.exe
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.deps.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.genruntimeconfig.cache

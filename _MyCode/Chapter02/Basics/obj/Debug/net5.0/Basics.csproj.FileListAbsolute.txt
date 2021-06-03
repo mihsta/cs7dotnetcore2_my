@@ -1,0 +1,16 @@
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.exe
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.deps.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\ref\Basics.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\bin\Debug\net5.0\Basics.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.csprojAssemblyReference.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\ref\Basics.dll
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.pdb
+C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter02\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+        "projectName": "CryptographyLib",
+        "projectPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+        "packagesPath": "C:\\Users\\stash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stash\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

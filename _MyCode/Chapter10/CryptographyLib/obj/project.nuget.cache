@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zd3oZH3enL5453Wbj8uLsT6s3jGcUDEvgJh5k9OowP5tZ/Wt1GjoUkb/GZXXLYhZdOn2aUnD30IcyjpbRdC4ig==",
+  "dgSpecHash": "jOvj2qyWQgrhzA5ua5UGciGEAE1QzHF3uAVpEOC7hRXfKDfMAb+e0fSo+M54Fe/YinzOVz2KXECw9i8zuVdWmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+  "projectFilePath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+      "projectUniqueName": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
       "projectName": "CryptographyLib",
-      "projectPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+      "projectPath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
       "packagesPath": "C:\\Users\\stash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\obj\\",
+      "outputPath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stash\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

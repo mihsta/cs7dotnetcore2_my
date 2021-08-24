@@ -10,3 +10,15 @@ C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\
 C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.dll
 C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\ref\CryptographyLib.dll
 C:\Users\stash\source\repos\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.pdb
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.deps.json
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.dll
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\bin\Debug\net5.0\ref\CryptographyLib.dll
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.pdb
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.csproj.AssemblyReference.cache
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.dll
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\ref\CryptographyLib.dll
+C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.pdb

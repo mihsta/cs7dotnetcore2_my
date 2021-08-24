@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SigningApp
+build_property.ProjectDir = C:\Users\stash\source\cs7dotnetcore\cs7dotnetcore2_my\_MyCode\Chapter10\SigningApp\

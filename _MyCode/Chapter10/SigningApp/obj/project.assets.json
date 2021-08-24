@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\SigningApp.csproj",
+      "projectUniqueName": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\SigningApp.csproj",
       "projectName": "SigningApp",
-      "projectPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\SigningApp.csproj",
+      "projectPath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\SigningApp.csproj",
       "packagesPath": "C:\\Users\\stash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\obj\\",
+      "outputPath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\SigningApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stash\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
-              "projectPath": "C:\\Users\\stash\\source\\repos\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
+            "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+              "projectPath": "C:\\Users\\stash\\source\\cs7dotnetcore\\cs7dotnetcore2_my\\_MyCode\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
             }
           }
         }
@@ -81,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
